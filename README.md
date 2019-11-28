@@ -51,6 +51,6 @@ docker-compose restart
 
 # Usage
 
-- Browse to the management interface: http://grisu.local:8080
+- Browse to the management interface: http://localhost:8080
 - Change the controller hostname/IP to the current wired IP and enable `Override inform host with controller hostname/IP`.
 - Configure the rest!
